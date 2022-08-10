@@ -1,0 +1,15 @@
+/* .img {background-color: aqua;
+    height: 1000px;
+    width: 100%;
+background-image: url(forrest.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+} */
+/* .linear {
+    height:1000px;
+    background-image: linear-gradient(to left, red, blue, green);}
+    p {text-align: justify;} */
+    #html {
+        height:400px;
+        background-image:  radial-gradient(circle, rgba(255, 0, 0, 0.5), rgba(0, 0, 255, 0.411), rgba(255, 255, 0, 0.445)), url(forrest.jpg);}

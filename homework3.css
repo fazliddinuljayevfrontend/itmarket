@@ -1,0 +1,39 @@
+.html {
+    background-image: linear-gradient(to right, lightblue, lightgreen);
+    padding: 40px;
+    margin-top:auto;
+  }
+  .html1 {
+    width: 28%;
+    background-color: khaki;
+    display: inline-block;
+    margin: 20px 30px;
+  }
+  .css h2 {
+    font-family: "Courier New", Courier, monospace;
+    letter-spacing: 7px;
+  }
+  .html1 img {
+    width:100%;
+  }
+  .css {
+    padding: 10px 30px;
+  }
+  .css p {
+    text-align: center;
+  }
+  .css form {
+    text-align: center;
+  }
+  button {
+    padding: 15px 20px;
+    display: block;
+    margin: 25px auto;
+    background-color: aquamarine;
+  }
+  .red {
+    color: red;
+  }
+  .kok {
+    color: blue;
+  }

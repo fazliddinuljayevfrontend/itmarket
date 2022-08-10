@@ -1,0 +1,30 @@
+.karta1 {
+    width: 450px;
+    height: 300px;
+    background: linear-gradient(to right, #f6d365, #fda085);
+  }
+  .karta1 p {
+    letter-spacing: 10px;
+    font-family: 'Arima', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Yellowtail', cursive;
+    font-size: 30px;
+  }
+  #paragraf { letter-spacing: 10px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  .karta2 {
+    background-image: url("https://albison-css-two.netlify.app/background2.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    width: 600px;
+  }
+  .karta2 p {
+    line-height: 40px;
+    text-transform:uppercase;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  i {  text-decoration: overline double;
+  }

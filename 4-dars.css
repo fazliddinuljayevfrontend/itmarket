@@ -1,0 +1,45 @@
+*{padding:0;
+margin:0;
+box-sizing: border-box;}
+
+
+.box h1, p {display:inline-block;
+}
+
+.box {background-color: yellow;
+color:red;
+border: 5px double red;
+position:fixed;
+width:150px;
+top:500px;
+
+}
+.box1 {background-color: yellow;
+    color:red;
+    border: 5px double red;
+    position:fixed;
+    width:150px;
+    top:500px;
+    right:50px;
+    
+    }
+
+
+.html { width:500px;
+    border: double 2px red;
+    background-color:blue;
+    color:orange;
+    position:relative;
+    margin:40px auto;
+}
+.buy {background-color: yellow;
+padding:10px;
+display:inline-block;
+position:absolute;
+bottom:60px;
+left:30px;}
+img {width:100%;}
+span{background-color: red;
+    position:sticky;
+top:100px;
+bottom:50px;}

@@ -1,0 +1,23 @@
+div
+ { background-color:pink;
+color:white;}
+
+u {color:red;
+background-color:aqua;}
+
+.qizil {background-color: red;}
+
+ h1 {background-color: gray;
+color: blue;}
+
+.nmadir {background-color:yellow;
+color:green;}
+
+#chocolate {color:yellowgreen;}
+
+#width {color:red;}
+
+input[type=text]{background-color:green;}
+
+input[type=password]{background-color: blue;}
+

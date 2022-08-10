@@ -1,0 +1,14 @@
+h1 {background-color: blue;}
+h2 {color: orange; 
+text-align: center;}
+p {text-align: justify;
+color:red;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 800;}
+h3 {letter-spacing: 10px;
+text-transform: capitalize;
+line-height:center;
+text-decoration: underline double;}
+h4 {font-family: 'Arima', kursiv;}
+
